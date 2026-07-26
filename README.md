@@ -1,5 +1,5 @@
 About SignSpeak
-Live deployed app : signspeak-phi.vercel.app
+Live deployed app : https://signspeak-phi.vercel.app/
 Public GitHub repository URL: https://github.com/maryam-akram5689/Signspeak
 The Big Picture & Why I Built It
 Communicating with someone who uses sign language shouldn't require an interpreter or expensive hardware. I built SignSpeak to help bridge the everyday communication gap between non-verbal or deaf individuals and the people around them—whether that's teachers, classmates, or shopkeepers.
